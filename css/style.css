@@ -1,0 +1,60 @@
+a.navbar-brand {
+	font-size: 30px;
+}
+
+.navbar, .navbar.navbar-default{
+	color: black;
+	background-color: white;
+}
+
+
+div.header {
+	background-color: white;
+}
+
+div.profile-content {
+	background-color: white;
+}
+
+h3.title {
+	color: black;
+}
+
+h6.desc {
+	color: black;
+}
+
+div.description {
+	color: black;
+	margin-bottom: 20px;
+}
+
+div.header-contact {
+	background-size: cover;
+	background-position: top center;
+	margin-top: 160px;
+}
+
+div.main-raised-contact {
+	background-color: #f6f5f3;
+}
+
+.profile-page .header {
+	height: 90px;
+	background-color: #f6f5f3;
+}
+body{
+	background-color: #f6f5f3;
+}
+.card .header-primary{
+	background: linear-gradient(60deg, white, #fffbfb);
+	color: #000;
+}
+.btn{
+	color: black !important;
+	background-color: white !important;
+	box-shadow: none !important;
+}
+.down{
+	background-color:#f6f5f3;
+}
